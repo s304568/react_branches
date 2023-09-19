@@ -1,6 +1,5 @@
 import DinoImage from "./DinoImage";
 import Paragraph from "./Paragraph";
-import "./App.css";
 
 function App() {
   return (
