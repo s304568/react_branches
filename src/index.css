@@ -1,3 +1,12 @@
 h1 {
   color: red;
 }
+
+button {
+  margin-inline-end: 20px;
+}
+
+.float-container {
+  display: flex;
+  flex-direction: row;
+}
